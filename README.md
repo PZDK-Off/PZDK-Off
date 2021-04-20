@@ -1,2 +1,3 @@
 # PZDK-Off
-# Stupid Organization
+## Little Stupid Organization
+### C++ for life
